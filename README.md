@@ -1,4 +1,4 @@
-## Hey Listen! I'm [Jean Cesar](https://jeancesar.dev) 👋
+## Hey Listen! I'm [Jean Cesar](https://jeancesar.dev) <img src="https://i.pinimg.com/originals/66/37/3d/66373de0d61773b68e8c12217f61c0c5.gif" width="36" height="36" />
 ==================================================================================================================================
 
 Tech Lead and Full Stack Developer
@@ -20,6 +20,7 @@ Tech Lead and Full Stack Developer
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank" rel="noreferrer"><img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/SQL-Server.svg" width="36" height="36" alt="SQL Server" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
@@ -28,9 +29,12 @@ Tech Lead and Full Stack Developer
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-</a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/benc-uk/icon-collection/blob/master/logos/azure-offical.svg" width="36" height="36" alt="Microsoft Azure" /></a>
+<a href="https://azure.microsoft.com/pt-br/products/devops/" target="_blank" rel="noreferrer"><img src="https://github.com/benc-uk/icon-collection/blob/master/azure-icons/Azure-DevOps.svg" width="36" height="36" alt="Microsoft Azure Devops" /></a>
 </p>
-                    
+
 ### Socials                  
 <p align="left">
 <a href="https://www.github.com/jeancesar" target="_blank" rel="noreferrer">
