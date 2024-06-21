@@ -5,7 +5,7 @@ Tech Lead and Full Stack Developer
 ----------------------------------
 
 *   🌍  I'm based in Brazil
-*   🖥️  See my portfolio at [Portfolio](http://jeancesar.dev)
+*   🖥️  See my website at [JeanCesar.DEV](http://jeancesar.dev)
 *   ✉️  You can contact me at [contato@jeancesar.com.br](mailto:contato@jeancesar.com.br)
 *   🧠  I'm learning Devops and Architecture
 
