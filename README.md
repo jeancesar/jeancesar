@@ -8,6 +8,7 @@ Tech Lead and Full Stack Developer
 *   🖥️  See my website at [JeanCesar.DEV](http://jeancesar.dev)
 *   ✉️  You can contact me at [contato@jeancesar.com.br](mailto:contato@jeancesar.com.br)
 *   🧠  I'm learning Devops and Architecture
+*   :medal_sports: My certifications at [Credly](https://www.credly.com/users/jean-batista.3d539493/badges)
 
 ### Skills 
 <p align="left">
