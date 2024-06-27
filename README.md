@@ -1,7 +1,7 @@
 ## Hey Listen! I'm [Jean Cesar](https://jeancesar.dev) <img src="https://i.pinimg.com/originals/66/37/3d/66373de0d61773b68e8c12217f61c0c5.gif" width="36" height="36" />
 ========================================================================================
 
-Tech Lead and Full Stack Developer
+Full Stack Developer and Tech Lead
 ----------------------------------
 
 *   🌍  I'm based in Brazil
